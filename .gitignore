@@ -1,0 +1,9 @@
+.vscode
+zig-cache
+zig-out
+
+/console.txt
+/steam_appid.txt
+/log.txt
+/verbose.txt
+/log_file.txt
